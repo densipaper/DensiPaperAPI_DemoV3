@@ -1,0 +1,54 @@
+c:\users\developer\documents\visual studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\bin\Debug\DensiPaperAPI_Demo.exe.config
+c:\users\developer\documents\visual studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\bin\Debug\DensiPaperAPI_Demo.exe
+c:\users\developer\documents\visual studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\bin\Debug\DensiPaperAPI_Demo.pdb
+c:\users\developer\documents\visual studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.csprojResolveAssemblyReference.cache
+c:\users\developer\documents\visual studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.Form1.resources
+c:\users\developer\documents\visual studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.Properties.Resources.resources
+c:\users\developer\documents\visual studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.csproj.GenerateResource.Cache
+c:\users\developer\documents\visual studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.exe
+c:\users\developer\documents\visual studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.pdb
+D:\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\bin\Debug\DensiPaperAPI_Demo.exe.config
+D:\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\bin\Debug\DensiPaperAPI_Demo.exe
+D:\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\bin\Debug\DensiPaperAPI_Demo.pdb
+D:\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.csprojResolveAssemblyReference.cache
+D:\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.Form1.resources
+D:\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.Properties.Resources.resources
+D:\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.csproj.GenerateResource.Cache
+D:\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.exe
+D:\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.pdb
+C:\Users\Papa\Documents\Visual Studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\bin\Debug\DensiPaperAPI_Demo.exe.config
+C:\Users\Papa\Documents\Visual Studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.exe
+C:\Users\Papa\Documents\Visual Studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.pdb
+C:\Users\Papa\Documents\Visual Studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\bin\Debug\DensiPaperAPI_Demo.exe
+C:\Users\Papa\Documents\Visual Studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\bin\Debug\DensiPaperAPI_Demo.pdb
+C:\Users\Papa\Documents\Visual Studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.csprojResolveAssemblyReference.cache
+C:\Users\Papa\Documents\Visual Studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.Form1.resources
+C:\Users\Papa\Documents\Visual Studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.Properties.Resources.resources
+C:\Users\Papa\Documents\Visual Studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.csproj.GenerateResource.Cache
+C:\Users\densipaper\Documents\Visual Studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\bin\Debug\DensiPaperAPI_Demo.exe.config
+C:\Users\densipaper\Documents\Visual Studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.exe
+C:\Users\densipaper\Documents\Visual Studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.pdb
+C:\Users\densipaper\Documents\Visual Studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\bin\Debug\DensiPaperAPI_Demo.exe
+C:\Users\densipaper\Documents\Visual Studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\bin\Debug\DensiPaperAPI_Demo.pdb
+C:\Users\densipaper\Documents\Visual Studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.csprojResolveAssemblyReference.cache
+C:\Users\densipaper\Documents\Visual Studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.Form1.resources
+C:\Users\densipaper\Documents\Visual Studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.Properties.Resources.resources
+C:\Users\densipaper\Documents\Visual Studio 2013\Projects\DensiPaperAPI_Demo\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.csproj.GenerateResource.Cache
+C:\Users\charlie_lugosi\Dropbox\DensiPaperAPI_DemoV3\DensiPaperAPI_Demo\bin\Debug\DensiPaperAPI_Demo.exe.config
+C:\Users\charlie_lugosi\Dropbox\DensiPaperAPI_DemoV3\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.exe
+C:\Users\charlie_lugosi\Dropbox\DensiPaperAPI_DemoV3\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.pdb
+C:\Users\charlie_lugosi\Dropbox\DensiPaperAPI_DemoV3\DensiPaperAPI_Demo\bin\Debug\DensiPaperAPI_Demo.exe
+C:\Users\charlie_lugosi\Dropbox\DensiPaperAPI_DemoV3\DensiPaperAPI_Demo\bin\Debug\DensiPaperAPI_Demo.pdb
+C:\Users\charlie_lugosi\Dropbox\DensiPaperAPI_DemoV3\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.csprojResolveAssemblyReference.cache
+C:\Users\charlie_lugosi\Dropbox\DensiPaperAPI_DemoV3\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.Form1.resources
+C:\Users\charlie_lugosi\Dropbox\DensiPaperAPI_DemoV3\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.Properties.Resources.resources
+C:\Users\charlie_lugosi\Dropbox\DensiPaperAPI_DemoV3\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.csproj.GenerateResource.Cache
+D:\Dropbox\DensiPaperAPI_DemoV3\DensiPaperAPI_Demo\bin\Debug\DensiPaperAPI_Demo.exe.config
+D:\Dropbox\DensiPaperAPI_DemoV3\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.exe
+D:\Dropbox\DensiPaperAPI_DemoV3\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.pdb
+D:\Dropbox\DensiPaperAPI_DemoV3\DensiPaperAPI_Demo\bin\Debug\DensiPaperAPI_Demo.exe
+D:\Dropbox\DensiPaperAPI_DemoV3\DensiPaperAPI_Demo\bin\Debug\DensiPaperAPI_Demo.pdb
+D:\Dropbox\DensiPaperAPI_DemoV3\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.csprojResolveAssemblyReference.cache
+D:\Dropbox\DensiPaperAPI_DemoV3\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.Form1.resources
+D:\Dropbox\DensiPaperAPI_DemoV3\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.Properties.Resources.resources
+D:\Dropbox\DensiPaperAPI_DemoV3\DensiPaperAPI_Demo\obj\Debug\DensiPaperAPI_Demo.csproj.GenerateResource.Cache
